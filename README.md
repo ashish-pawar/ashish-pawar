@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Ashish Pawar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Everything
+- 💞️ I’m looking to collaborate on Everything 
+- 📫 How to reach me Already reached
+
+.
 
 <!---
 ashish-pawar/ashish-pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
